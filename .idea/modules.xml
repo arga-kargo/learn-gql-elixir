@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/community/deps/absinthe/.idea/absinthe.iml" filepath="$PROJECT_DIR$/community/deps/absinthe/.idea/absinthe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/absinthe_plug/.idea/absinthe_plug.iml" filepath="$PROJECT_DIR$/community/deps/absinthe_plug/.idea/absinthe_plug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/.idea/community.iml" filepath="$PROJECT_DIR$/community/.idea/community.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/connection/.idea/connection.iml" filepath="$PROJECT_DIR$/community/deps/connection/.idea/connection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/db_connection/.idea/db_connection.iml" filepath="$PROJECT_DIR$/community/deps/db_connection/.idea/db_connection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/decimal/.idea/decimal.iml" filepath="$PROJECT_DIR$/community/deps/decimal/.idea/decimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/ecto/.idea/ecto.iml" filepath="$PROJECT_DIR$/community/deps/ecto/.idea/ecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/ecto_sql/.idea/ecto_sql.iml" filepath="$PROJECT_DIR$/community/deps/ecto_sql/.idea/ecto_sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/gettext/.idea/gettext.iml" filepath="$PROJECT_DIR$/community/deps/gettext/.idea/gettext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/jason/.idea/jason.iml" filepath="$PROJECT_DIR$/community/deps/jason/.idea/jason.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-gql-elixir.iml" filepath="$PROJECT_DIR$/.idea/learn-gql-elixir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/mime/.idea/mime.iml" filepath="$PROJECT_DIR$/community/deps/mime/.idea/mime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/nimble_parsec/.idea/nimble_parsec.iml" filepath="$PROJECT_DIR$/community/deps/nimble_parsec/.idea/nimble_parsec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/phoenix/.idea/phoenix.iml" filepath="$PROJECT_DIR$/community/deps/phoenix/.idea/phoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/phoenix_ecto/.idea/phoenix_ecto.iml" filepath="$PROJECT_DIR$/community/deps/phoenix_ecto/.idea/phoenix_ecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/phoenix_html/.idea/phoenix_html.iml" filepath="$PROJECT_DIR$/community/deps/phoenix_html/.idea/phoenix_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/phoenix_live_dashboard/.idea/phoenix_live_dashboard.iml" filepath="$PROJECT_DIR$/community/deps/phoenix_live_dashboard/.idea/phoenix_live_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/phoenix_live_view/.idea/phoenix_live_view.iml" filepath="$PROJECT_DIR$/community/deps/phoenix_live_view/.idea/phoenix_live_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/phoenix_pubsub/.idea/phoenix_pubsub.iml" filepath="$PROJECT_DIR$/community/deps/phoenix_pubsub/.idea/phoenix_pubsub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/phoenix_view/.idea/phoenix_view.iml" filepath="$PROJECT_DIR$/community/deps/phoenix_view/.idea/phoenix_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/plug/.idea/plug.iml" filepath="$PROJECT_DIR$/community/deps/plug/.idea/plug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/plug_cowboy/.idea/plug_cowboy.iml" filepath="$PROJECT_DIR$/community/deps/plug_cowboy/.idea/plug_cowboy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/plug_crypto/.idea/plug_crypto.iml" filepath="$PROJECT_DIR$/community/deps/plug_crypto/.idea/plug_crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/postgrex/.idea/postgrex.iml" filepath="$PROJECT_DIR$/community/deps/postgrex/.idea/postgrex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/swoosh/.idea/swoosh.iml" filepath="$PROJECT_DIR$/community/deps/swoosh/.idea/swoosh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/telemetry/.idea/telemetry.iml" filepath="$PROJECT_DIR$/community/deps/telemetry/.idea/telemetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/community/deps/telemetry_metrics/.idea/telemetry_metrics.iml" filepath="$PROJECT_DIR$/community/deps/telemetry_metrics/.idea/telemetry_metrics.iml" />
+    </modules>
+  </component>
+</project>
