@@ -1,5 +1,5 @@
-defmodule CommunityWeb.ErrorView do
-  use CommunityWeb, :view
+defmodule ProductWeb.ErrorView do
+  use ProductWeb, :view
 
   # If you want to customize a particular status code
   # for a certain format, you may uncomment below.

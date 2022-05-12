@@ -1,4 +1,4 @@
-defmodule CommunityWeb.ErrorHelpers do
+defmodule ProductWeb.ErrorHelpers do
   @moduledoc """
   Conveniences for translating and building error messages.
   """
@@ -25,9 +25,9 @@ defmodule CommunityWeb.ErrorHelpers do
     # should be written to the errors.po file. The :count option is
     # set by Ecto and indicates we should also apply plural rules.
     if count = opts[:count] do
-      Gettext.dngettext(CommunityWeb.Gettext, "errors", msg, msg, count, opts)
+      Gettext.dngettext(ProductWeb.Gettext, "errors", msg, msg, count, opts)
     else
-      Gettext.dgettext(CommunityWeb.Gettext, "errors", msg, opts)
+      Gettext.dgettext(ProductWeb.Gettext, "errors", msg, opts)
     end
   end
 end
